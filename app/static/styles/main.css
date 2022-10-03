@@ -3,13 +3,13 @@ p, h1, h2, h3, h4, h5, h6, button {
 }
 
 body {
-    background-color: #F8FAFC;
+    background-color: #FFCACA !important;
     background-size: cover;
     width: auto; 
     overflow-x: hidden;
     font-family: "Arial", serif;
     margin: 0px;
-    color: #0F172A;
+    color: yellow;
 }
 
 .gradient{
